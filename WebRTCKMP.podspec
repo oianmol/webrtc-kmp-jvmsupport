@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                       = 'WebRTCKMP'
     spec.version                    = '0.100.2'
     spec.homepage                   = 'https://github.com/shepeliev/webrtc-kmp'
-    spec.source                     = { :http => "http://localhost:8887/WebRTC.xcframework.tgz", :flatten => false }
+    spec.source                     = { :http => 'http://localhost:8887/WebRTC.xcframework.tgz' }
     spec.authors                    = 'https://github.com/shepeliev/webrtc-kmp/graphs/contributors'
     spec.license                    = 'Apache License 2.0'
     spec.summary                    = 'WebRTC for Kotlin Multi Platform'
